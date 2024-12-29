@@ -1,0 +1,6 @@
+streamlit
+deepgram-sdk
+openai
+transformers
+torch
+streamlit-mic-recorder
