@@ -14,11 +14,11 @@ This project is a discussion bot built using Streamlit that allows users to inte
 1. Clone the repository:
 git clone https://github.com/yourusername/discussion-bot.git
 cd discussion-bot
-text
+
 
 2. Install the required packages:
 pip install -r requirements.txt
-text
+
 
 3. Set up your Deepgram and OpenAI credentials as environment variables:
 - For OpenAI:
@@ -34,7 +34,7 @@ text
 
 Run the Streamlit application:
 streamlit run app.py
-text
+
 
 Upload an audio file or use the microphone to interact with the bot!
 
